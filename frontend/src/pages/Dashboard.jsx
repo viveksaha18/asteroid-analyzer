@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { fetchAsteroids } from "../services/api";
-import AsteroidCard from "../components/asteroidCard";
+import AsteroidCard from "../components/AsteroidCard";
 import Asteroid3DViewer from "../components/Asteroid3DViewer";
 import OrbitViewer3D from "../components/OrbitViewer3D";
 
