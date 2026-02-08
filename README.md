@@ -16,6 +16,8 @@ An advanced web application for asteroid data analysis, risk assessment, and int
 - Ranjan Kumar Mohanty
 ## YOUTUBE LINK :
 https://youtu.be/BoLC7HgZVNw?feature=shared
+## PPT LINK :
+https://docs.google.com/presentation/d/1WFWjyaH_PsRzJN4JhMU4h1VfcTgsTNl0/edit?slide=id.p1#slide=id.p1
 ## Features
 
 - 🌍 **3D Asteroid Visualization** - Interactive 3D rendering of asteroids and celestial objects
